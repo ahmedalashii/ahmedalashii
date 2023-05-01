@@ -1,4 +1,4 @@
-Hello, I am Ahmed Alashi, a passionate Flutter Mobile Developer with expertise in Dart programming language. Along with my proficiency in Flutter, I also have a little experience in Laravel development.
+Hello, I am Ahmed Alashi, a Flutter dev with a passion for backend. Expertise in building beautiful mobile apps with seamless user experience, powered by robust and scalable backend system
 
 Programming and coding have always fascinated me, and I believe in constantly upgrading my skills to stay ahead in the game. I have worked on several projects, and my experience has helped me hone my skills and gain valuable insights into the world of mobile app development.
 
